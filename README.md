@@ -1,4 +1,4 @@
-<div align="center">
+![banner](https://raw.githubusercontent.com/tanmaychouhan767-svg/tanmaychouhan767-svg/main/banner.svg)<div align="center">
 
 <!-- TYPING ANIMATION -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=00FFC8&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Tanmay+Chouhan+%F0%9F%91%8B;Student+%7C+Web+Dev+%7C+AI+Voice+Agent+Maker;Prompt+Engineer+%7C+Problem+Solver;I+turn+coffee+into+code+%E2%98%95%F0%9F%92%BB)](https://git.io/typing-svg)
